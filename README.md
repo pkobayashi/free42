@@ -5,6 +5,8 @@ As seen on Reddit, https://www.reddit.com/r/MechanicalKeyboards/comments/hdi7p7/
 
 Order your own set here, https://www.wasdkeyboards.com/61-key-custom-cherry-mx-keycap-set.html
 
+You can print your own case, or order one here, https://www.shapeways.com/product/5WRUSSCEQ/free42-hand-wired-keyboard-case
+
 Don't forget to set the keycap colors! All the keycaps are "charcoal", except the /? key (the one next to the right-shift), is "orange".
 
 And here's the layout, http://www.keyboard-layout-editor.com/#/gists/66d7023200c0f85745199b2e1fa60b12
